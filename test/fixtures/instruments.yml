@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ric: MyString
+  name: MyString
+  data_source: one
+  third_party_instrument: MyString
+
+two:
+  ric: MyString
+  name: MyString
+  data_source: two
+  third_party_instrument: MyString

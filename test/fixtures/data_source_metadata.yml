@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  data_source: one
+  name: MyString
+  description: MyText
+  refreshed_at: 2021-10-19 14:38:59
+  from_date: 2021-10-19
+  to_date: 2021-10-19
+
+two:
+  code: MyString
+  data_source: two
+  name: MyString
+  description: MyText
+  refreshed_at: 2021-10-19 14:38:59
+  from_date: 2021-10-19
+  to_date: 2021-10-19
